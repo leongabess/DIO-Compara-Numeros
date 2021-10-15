@@ -36,18 +36,3 @@ function criaPrimeiraFrase(num1, num2){
 
 
 console.log(comparaNumeros (1, 20))
-{ 
-/*const saoIguais = num1 === num2;
-    const soma =num1 + num2;
-
-     return saoIguais ? "São iguais" : "Não são iguais"
-
-  /*  if(saoIguais){
-        return "São iguais";
-    }
-
-    return "Não são iguais";
-
-    --If tradicional, equivalente ao if ternario--*/
-
-}
